@@ -1,0 +1,10 @@
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\bin\Debug\Tic-Tac-Toe 2.exe.config
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\bin\Debug\Tic-Tac-Toe 2.exe
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\bin\Debug\Tic-Tac-Toe 2.pdb
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe 2.csproj.AssemblyReference.cache
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic_Tac_Toe_2.Form1.resources
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic_Tac_Toe_2.Properties.Resources.resources
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe 2.csproj.GenerateResource.cache
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe 2.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe 2.exe
+C:\Users\Ahmed\source\repos\Tic-Tac-Toe 2\obj\Debug\Tic-Tac-Toe 2.pdb
